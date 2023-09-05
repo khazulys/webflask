@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  padding: 10px;
+}
+label {
+  margin-bottom: 5px;
+}
